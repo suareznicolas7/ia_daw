@@ -1,9 +1,13 @@
 # Práctica IA (RA4 · a) — Automatización y optimización
 
 ## 1) Proceso elegido
-- Nombre del proceso: 
+- Nombre del proceso: Soporte al Cliente (Atención vía Chat en Tiempo Real)
 - Contexto (empresa/servicio web/IT):
-- Rol/es implicados:
+- Rol/es implicados: Empresa de servicios TI o plataforma web que brinda soporte técnico y atención a usuarios a través de chat online.
+  + Agentes de Soporte: Profesionales encargados de brindar atención directa a los usuarios, resolver problemas, y orientar a los clientes sobre el uso de       
+      productos o servicios.
+  + Usuarios/Clientes: Personas o empresas que necesitan soporte técnico, respuestas a preguntas frecuentes o solución de problemas.
+  + Desarrolladores de IA: Equipos encargados de crear, entrenar y mantener el chatbot o sistema automatizado de atención.
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
