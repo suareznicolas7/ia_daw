@@ -22,29 +22,33 @@ Explica el flujo de forma ordenada:
 - Análisis/BI (opcional): Paneles para medir retención, popularidad de contenidos y comportamiento por segmento.
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
-- Salida del modelo (qué produce):
-- Decisión que habilita (qué hace la empresa con esa salida):
-
+- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):  Modelo de predicción de churn (clasificación), sistema de recomendación personalizado.
+- Entrada del modelo (qué datos usa): Historial de consumo, frecuencia de uso, géneros favoritos, tiempo desde última conexión.
+- Salida del modelo (qué produce): Probabilidad de que el usuario cancele la suscripción, lista personalizada de contenidos recomendados.
+- Decisión que habilita (qué hace la empresa con esa salida): Ofrecer promociones o contenido destacado a usuarios con riesgo de abandono, personalizar portada y recomendaciones para aumentar engagement.
+  
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
 KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes: 8 % mensual
+- Después: 5 % mensual
+- Por qué mejora la rentabilidad: Más clientes mantienen su suscripción, aumentando ingresos recurrentes.
 
 KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes: 6 horas
+- Después: 8 horas
+- Por qué mejora la rentabilidad: Mayor engagement → menor probabilidad de cancelación.
 
 KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes: 100 % (base)
+- Después: +12 %
+- Por qué mejora la rentabilidad: Más retención y mayor fidelización aumentan los ingresos totales.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
+Usuarios → Eventos en tiempo real → Limpieza/Normalización
+        → Data Lake → Preparación de features
+        → Modelo IA (Churn + Recomendador)
+        → Decisiones (Promos + Personalización)
+        → Mayor retención e ingresos
 
 ## 7) Riesgos y mitigación
 Riesgo 1:
