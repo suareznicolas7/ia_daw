@@ -51,18 +51,18 @@ Usuarios → Eventos en tiempo real → Limpieza/Normalización
         → Mayor retención e ingresos
 
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Uso indebido de datos personales.
+- Mitigación 1: Cumplimiento del Reglamento General de Protección de Datos (RGPD), anonimización y consentimiento informado.
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Sesgos algorítmicos que limiten diversidad de contenidos.
+- Mitigación 2: Auditorías periódicas del modelo y métricas de diversidad y equidad.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy): La IA es esencial en plataformas como Netflix para personalizar la experiencia del usuario y mantener la competitividad. El volumen de datos generado hace imposible la gestión manual. La personalización aumenta satisfacción y fidelización.
+- Importancia futura (3–5 años): La IA evolucionará hacia modelos generativos capaces de crear tráilers personalizados o incluso contenidos adaptados al perfil del usuario. La hiperpersonalización será clave en el mercado del entretenimiento digital.
+- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo): Dependencia de datos de calidad, costes tecnológicos elevados, regulación en privacidad, riesgos éticos y competencia creciente.
+- Conclusión razonada: La IA es un pilar estratégico en el sector del streaming. Permite maximizar ingresos recurrentes y mejorar la experiencia del usuario. Su desarrollo futuro consolidará aún más su papel como ventaja competitiva clave.
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+- Big Data/analítica (enlace oficial): https://digital-strategy.ec.europa.eu/en/policies/data-act
+- IA/técnica/modelo (enlace oficial): https://oecd.ai/en/ai-principles
