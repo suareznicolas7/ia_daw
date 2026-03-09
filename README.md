@@ -67,17 +67,19 @@
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
 
+
+
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+Riesgo 1: Fallos en decisiones críticas (vehículos autónomos o cultivos).
+Mitigación 1: Pruebas exhaustivas, supervisión humana, redundancia de sistemas.
+Riesgo 2: Uso indebido de datos personales (videojuegos y apps web).
+Mitigación 2: Cumplir normativa GDPR, anonimizar datos, controles de acceso.
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: Transporte, Videojuegos y Agricultura
+- Qué lenguajes aparecen con más frecuencia: Python y C# por su versatilidad y rendimiento
+- Qué importancia tiene esto para DAW/DAM: Permite integrar IA en aplicaciones interactivas y multimedia, optimizar procesos y mejorar experiencias de usuario en tiempo real
 
 ## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Fuente 1 (sectores / aplicación IA): World Economic Forum – AI in different industries.
+- Fuente 2 (lenguajes / ecosistema técnico): Analytics Vidhya – Programming Languages for AI.
