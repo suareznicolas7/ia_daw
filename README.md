@@ -33,35 +33,36 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+
+- Nombre: Python
+- Uso principal en IA: Machine Learning, Deep Learning, análisis de datos
+- Ventajas: Gran ecosistema, fácil de aprender, muchas librerías especializadas
+- Ejemplos de uso: Vehículos autónomos, videojuegos con IA, análisis agrícola
 
 ### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: JavaScript
+- Uso principal en IA: IA aplicada a aplicaciones web y front-end interactivo
+- Ventajas: Compatible con navegadores, integración directa en web apps
+- Ejemplos de uso: Chatbots web, recomendaciones de contenido, juegos interactivos
 
 ### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: C#
+- Uso principal en IA: Desarrollo de videojuegos, simulaciones, aplicaciones de escritorio
+- Ventajas: Integración con Unity y .NET, rendimiento estable
+- Ejemplos de uso: NPC inteligentes, simulaciones de entrenamiento, videojuegos 3D
 
 ### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: Julia
+- Uso principal en IA: Análisis numérico y cálculo científico de alto rendimiento
+- Ventajas: Muy rápido para cálculos matemáticos, ideal para simulaciones
+- Ejemplos de uso: Modelos predictivos agrícolas, optimización de rutas logísticas
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
-| Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
-|--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+| Sector      | Aplicación de IA                               | Tipo de IA/técnica                        | Lenguaje recomendado | Justificación                                                                  |
+| ----------- | ---------------------------------------------- | ----------------------------------------- | -------------------- | ------------------------------------------------------------------------------ |
+| Transporte  | Vehículos autónomos y optimización de rutas    | Machine Learning / Reinforcement Learning | Python / Julia       | Python para prototipos y ML, Julia para simulaciones numéricas rápidas         |
+| Videojuegos | NPC inteligentes y recomendación de contenidos | IA basada en reglas y ML                  | C# / JavaScript      | C# en Unity para juegos, JS para interactividad web                            |
+| Agricultura | Predicción de cosechas y detección de plagas   | Machine Learning / Visión por computadora | Python / Julia       | Python para modelos ML, Julia para procesamiento eficiente de grandes datasets |
 
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
