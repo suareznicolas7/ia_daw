@@ -67,7 +67,23 @@
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
 
++--------------------+       +------------------------------+       +---------------------+
+|   Transporte        | ----> | Vehículos autónomos y        | ----> | Python / Julia      |
+|   Movilidad         |       | optimización de rutas        |       |                     |
++--------------------+       | Machine Learning / RL        |       +---------------------+
+                             +------------------------------+
 
++--------------------+       +------------------------------+       +---------------------+
+|   Videojuegos       | ----> | NPC inteligentes y           | ----> | C# / JavaScript     |
+|   Entretenimiento   |       | recomendación de contenidos  |       |                     |
++--------------------+       | IA basada en reglas / ML     |       +---------------------+
+                             +------------------------------+
+
++--------------------+       +------------------------------+       +---------------------+
+|   Agricultura       | ----> | Predicción de cosechas y     | ----> | Python / Julia      |
+|   Agroindustria     |       | detección de plagas          |       |                     |
++--------------------+       | ML / Visión por computadora  |       +---------------------+
+                             +------------------------------+
 
 ## 6) Riesgos y mitigación
 Riesgo 1: Fallos en decisiones críticas (vehículos autónomos o cultivos).
